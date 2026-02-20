@@ -1,4 +1,4 @@
-# First Game
+# Simple Platformer Game
 
 A small 2D platformer hobby project made in **Unity** (2019.3) back in 2020. The goal was to learn Unity basics by building a simple side-scrolling platformer from scratch.
 
